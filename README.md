@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 polyGLOB
 ========
 
@@ -18,3 +19,6 @@ Spanish, French, German, Italian, Portuguese, Swedish. The default language is
 2. `polyGLOB < some-file-of-text`
 
 
+=======
+# hello-world
+>>>>>>> 90d878f002fb85cd019b7683504f334078789bac
